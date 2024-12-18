@@ -1,0 +1,29 @@
+.table_container {
+  max-width: 1440px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.table_container table {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.table_container table,
+.table_container th,
+.table_container td,
+.table_container tr {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.table_container th,
+.table_container td {
+  font-size: 16px;
+  padding: 10px 10px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 36px;
+}
